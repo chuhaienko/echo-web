@@ -1,0 +1,25 @@
+{
+  "name": "echo-web",
+  "version": "0.1.0",
+  "description": "Echo web-server for http and https",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuhaienko/echo-web.git"
+  },
+  "keywords": [
+    "echo-server",
+    "echo-http",
+    "echo-https",
+    "echo-request"
+  ],
+  "author": "Yurii Chuhaienko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuhaienko/echo-web/issues"
+  },
+  "homepage": "https://github.com/chuhaienko/echo-web#readme"
+}
