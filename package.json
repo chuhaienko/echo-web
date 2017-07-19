@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/chuhaienko/echo-web/issues"
   },
-  "homepage": "https://github.com/chuhaienko/echo-web#readme"
+  "homepage": "https://github.com/chuhaienko/echo-web#readme",
+  "dependencies": {
+    "yargs": "^8.0.2"
+  }
 }
